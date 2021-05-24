@@ -11,7 +11,7 @@ API BileMo
 
 # Installation
 
-1. Clonez le dépot où vous voulez : `git clone https://github.com/nbaccour/apiRest.git`
+1. Clonez le dépot où vous voulez : `git clone https://github.com/nbaccour/bileMo.git`
 2. Modifier le fichier .env : `connexion à la base de données`
 3. Créez la base de données : `php bin/console doctrine:database:create`
 4. Installez les dépendances : `composer install`
@@ -45,4 +45,4 @@ Pour interagir avec l'API, vous devez installer Postman :
 
 # Lien Documentation en locale
 
-- `https://127.0.0.1:8000/swagger`
+- `https://127.0.0.1:8000/swagger/`
